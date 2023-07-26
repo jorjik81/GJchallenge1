@@ -1,6 +1,6 @@
 # GJchallenge1-HTML/CSS website code revision.
 
-## Goal
+## Goal/s
 Refactor starter code with no changes in website's appearance or functionality.
 
 ## Requirements
