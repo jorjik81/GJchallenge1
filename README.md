@@ -1,7 +1,7 @@
 # GJchallenge1-HTML/CSS website code revision.
 
 ## Goal
-Refactor starter code
+Refactor starter code with no changes in website's appearance or functionality.
 
 ## Requirements
 GIVEN a webpage meets accessibility standards
@@ -34,6 +34,6 @@ for the section on the right, I replaced <div> with <aside> element
 I added <footer> element instead of <div>
 
 ## Usage
-Please changes I've done, 
-Link to the web page and repo are provided
+Thank you for reviewing my work , 
+
 
