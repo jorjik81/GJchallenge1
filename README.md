@@ -35,7 +35,7 @@ I added alt attributes to the images
 for the section on the right, I replaced <div> with <aside> element
 I added <footer> element instead of <div>
  
-## link to the website: 
+## link to the website: https://jorjik81.github.io/beautiful.toothpaste1/
 
 ## Usage
 Thank you for reviewing my work , 
