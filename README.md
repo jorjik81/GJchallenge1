@@ -1,5 +1,7 @@
 # GJchallenge1-HTML/CSS website code revision.
 
+## Screenshot
+![Alt text](<Screenshot (5)-2.png>)
 ## Goal/s
 Refactor starter code with no changes in website's appearance or functionality.
 
@@ -32,6 +34,8 @@ in the next section I replaced div elements with section
 I added alt attributes to the images
 for the section on the right, I replaced <div> with <aside> element
 I added <footer> element instead of <div>
+ 
+## link to the website: 
 
 ## Usage
 Thank you for reviewing my work , 

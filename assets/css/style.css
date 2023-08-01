@@ -9,24 +9,23 @@ body {
 }
 
 .header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px; /* changes the size of the header section*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
     background-color: #2a607c;
     color: #ffffff;
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline-block; /* sets elements in one line*/
     font-size: 48px;
 }
 
 
-.header h1 .seo {
+.header h1 .seo {   /* changes the color for the three letters in H1 element*/
     color: #d9dcd6;
 }
 
-.header nav {
-    padding-top: 15px;
+.header nav {     /* adjusts position of nav links*/      
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -38,7 +37,7 @@ body {
 }
 
 .header nav ul li {
-    display: inline-block;
+    display: inline-block; /* sets all header elements at in line at the top of the page*/
     margin-left: 25px;
 }
 
@@ -52,7 +51,7 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 800px; /*size and parameters for the picture below the header*/
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -60,12 +59,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+.float-left { /* moves text or picture in the section on the left side*/
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right { /* moves text or picture in the section on the right side*/
     float: right;
     margin-left: 25px;
 }
@@ -76,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+.benefits {              /*parameters for the section on the right*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -88,7 +87,7 @@ p {
 }
 
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead, .benefit-brand, .benefit-cost { /* Stylises the section on the right side*/
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -130,7 +129,7 @@ p {
 
  
 
-.footer {
+.footer {               /* positions footer elements*/
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
