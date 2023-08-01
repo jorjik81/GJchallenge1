@@ -1,7 +1,7 @@
 # GJchallenge1-HTML/CSS website code revision.
 
 ## Screenshot
-![Alt text](<Screenshot (5)-2.png>)
+![!\[Alt text\](<Screenshot (5)-2.png>)](<assets/images/Screenshot (5).png>)
 ## Goal/s
 Refactor starter code with no changes in website's appearance or functionality.
 
